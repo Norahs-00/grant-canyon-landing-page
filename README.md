@@ -27,6 +27,5 @@ Folder Structure:
 - src: contains all components and pages
 - package.json: project configuration
 
-Author:
-Mehek
+
 GitHub: https://github.com/Norahs-00/grant-canyon-landing-page
